@@ -1,6 +1,6 @@
 name: Vacation Life
 favicon: null
-layout_spectrum: 0.24656
+layout_spectrum: 0.49743
 typography_spectrum: 0.06089
 collections:
   - index:
@@ -35,7 +35,7 @@ color:
     - '#425000'
     - '#b6d4f6'
   brandStrength: 0.4375
-  lightness: 0.8578767
+  lightness: 0.8125
   saturation: 0.375
   rhythmicContrast: 0.6310499
 purpose: []
