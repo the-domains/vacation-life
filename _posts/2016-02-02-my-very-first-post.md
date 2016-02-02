@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-02T08:22:00.686Z'
-dateModified: '2016-02-02T08:21:53.158Z'
-title: Welcome to Travel Life
+datePublished: '2016-02-02T08:30:52.475Z'
+dateModified: '2016-02-02T08:30:50.934Z'
+title: Welcome to Vacation Life
 author: []
 sourcePath: _posts/2016-02-02-my-very-first-post.md
 published: true
@@ -24,4 +24,4 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/14798be2-f374-4a92-8df4-992bd8c4257b.jpg)
 
-Welcome to Vacation.Life, where I like to think vacationing should truly be a way of life. Who doesn't like the idea of taking a vacation somewhere beautiful, relaxing, or adventurous? Let's go explore new places together, and talk about it along the way.
+Welcome to Vacation Life, where I like to think vacationing should truly be a way of life. Who doesn't like the idea of taking a vacation somewhere beautiful, relaxing, or adventurous? Let's go explore new places together, and talk about it along the way.
