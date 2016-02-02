@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Vacation Life]]></title>
         <description><![CDATA[Vacation Life]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.vacation.life/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 05:32:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Feb 2016 08:05:50 GMT</lastBuildDate>
+        <atom:link href="http://www.vacation.life/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[My Very First Post]]></title>
-            <description><![CDATA[<h1>My Very First Post</h1>]]></description>
-            <link>undefinedmy-very-first-post/index.html</link>
+            <title><![CDATA[Welcome to Travel Life]]></title>
+            <description><![CDATA[<article><h1>Welcome to Travel Life</h1><p>Welcome to Vacation.Life, where I like to think vacationing should truly be a way of life. Who doesn't like the idea of taking a vacation somewhere beautiful, relaxing, or adventurous? Let's go explore new places together, and talk about it along the way. </p></article>]]></description>
+            <link>http://www.vacation.life/my-very-first-post/index.html</link>
             <guid isPermaLink="false">cbe2d189-970e-48fb-9ec2-68ffe0a5b6a2</guid>
-            <pubDate>Tue, 02 Feb 2016 05:32:51 GMT</pubDate>
+            <pubDate>Tue, 02 Feb 2016 08:05:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
