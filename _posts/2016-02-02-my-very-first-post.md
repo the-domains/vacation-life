@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-02T08:30:52.475Z'
-dateModified: '2016-02-02T08:30:50.934Z'
-title: Welcome to Vacation Life
+datePublished: '2016-02-02T08:41:39.315Z'
+dateModified: '2016-02-02T08:41:27.006Z'
+title: 'Whoa!'
 author: []
 sourcePath: _posts/2016-02-02-my-very-first-post.md
 published: true
@@ -22,6 +22,7 @@ url: my-very-first-post/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/14798be2-f374-4a92-8df4-992bd8c4257b.jpg)
+# Whoa!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ed97029-31f2-4652-8370-5e86247cb45a.jpg)
 
 Welcome to Vacation Life, where I like to think vacationing should truly be a way of life. Who doesn't like the idea of taking a vacation somewhere beautiful, relaxing, or adventurous? Let's go explore new places together, and talk about it along the way.
