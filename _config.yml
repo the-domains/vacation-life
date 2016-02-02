@@ -1,14 +1,26 @@
-layout_spectrum: 0.6953405
-typography_spectrum: 0.1021505
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.06229845
+  brandStrength: 0.4426523
   lightness: 0.8578767
-  brandStrength: 0.01708328
-  rhythmicContrast: 0.6310499
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#1F1F1F'
+    - '#0465FB'
+    - '#E8EAE7'
+    - '#5CC6BD'
+    - '#EAFF78'
+  rhythmicContrast: 0.6310499
+typography_spectrum: 0.1021505
+layout_spectrum: 0.6953405
 name: Vacation Life
