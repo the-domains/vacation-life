@@ -1,3 +1,7 @@
+name: Vacation Life
+favicon: null
+layout_spectrum: 0.6953405
+typography_spectrum: 0.1021505
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.06229845
-  brandStrength: 0.4426523
-  lightness: 0.8578767
   brandColors:
     - '#1F1F1F'
     - '#0465FB'
     - '#E8EAE7'
     - '#5CC6BD'
     - '#EAFF78'
+  brandStrength: 0.4375
+  lightness: 0.8578767
+  saturation: 0.125
   rhythmicContrast: 0.6310499
-typography_spectrum: 0.1021505
-layout_spectrum: 0.6953405
-name: Vacation Life
+purpose: []
