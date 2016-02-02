@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-02T08:22:00.741Z'
+datePublished: '2016-02-02T08:22:00.686Z'
 dateModified: '2016-02-02T08:21:53.158Z'
 title: Welcome to Travel Life
 author: []
