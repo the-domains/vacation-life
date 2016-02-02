@@ -1,7 +1,7 @@
 name: Vacation Life
 favicon: null
 layout_spectrum: 0.6953405
-typography_spectrum: 0.1021505
+typography_spectrum: 0.06089
 collections:
   - index:
       path: /
@@ -29,11 +29,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#1F1F1F'
-    - '#0465FB'
-    - '#E8EAE7'
-    - '#5CC6BD'
-    - '#EAFF78'
+    - '#0051bd'
+    - '#5d8c6a'
+    - '#000d1d'
+    - '#425000'
+    - '#b6d4f6'
   brandStrength: 0.4375
   lightness: 0.8578767
   saturation: 0.375
