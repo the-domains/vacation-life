@@ -1,7 +1,7 @@
 name: Vacation Life
 favicon: null
-layout_spectrum: 0.26014
-typography_spectrum: 0.06089
+layout_spectrum: 0.49393
+typography_spectrum: 0.04321
 collections:
   - index:
       path: /
