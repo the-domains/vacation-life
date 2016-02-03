@@ -4,7 +4,7 @@
         <description><![CDATA[Vacation Life]]></description>
         <link>https://thegrid.ai/vacation-life/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 07:31:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2016 07:56:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vacation-life/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Aloha!]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/vacation-life/my-very-first-post/index.html</link>
             <guid isPermaLink="false">cbe2d189-970e-48fb-9ec2-68ffe0a5b6a2</guid>
             <pubDate>Wed, 03 Feb 2016 07:31:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cruising: Is A Balcony Stateroom Worth The Extra Cost?]]></title>
+            <description><![CDATA[<article><h1>Cruising: Is A Balcony Stateroom Worth The Extra Cost?</h1><p>So, did I like it? Hell yes I did! </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a050532878ccb9261e886e713ad11cb0656c373.jpg"></article>]]></description>
+            <link>https://thegrid.ai/vacation-life/cruising-is-a-balcony-stateroom-worth-the-extra-cost/index.html</link>
+            <guid isPermaLink="false">0c6967ed-1b4b-4bd6-bb12-86fa4e616b19</guid>
+            <pubDate>Wed, 03 Feb 2016 07:56:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
