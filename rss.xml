@@ -2,23 +2,23 @@
     <channel>
         <title><![CDATA[Vacation Life]]></title>
         <description><![CDATA[Vacation Life]]></description>
-        <link>https://thegrid.ai/vacation-life/</link>
+        <link>http://vacation.life/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 07:56:10 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/vacation-life/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Feb 2016 08:54:45 GMT</lastBuildDate>
+        <atom:link href="http://vacation.life/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Aloha!]]></title>
             <description><![CDATA[<article><h1>Aloha!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d6d34541df1a5ab5311b6446d5b46090980e5f5.jpg"></article>]]></description>
-            <link>https://thegrid.ai/vacation-life/my-very-first-post/index.html</link>
+            <link>http://vacation.life/my-very-first-post/index.html</link>
             <guid isPermaLink="false">cbe2d189-970e-48fb-9ec2-68ffe0a5b6a2</guid>
             <pubDate>Wed, 03 Feb 2016 07:31:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cruising: Is A Balcony Stateroom Worth The Extra Cost?]]></title>
-            <description><![CDATA[<article><h1>Cruising: Is A Balcony Stateroom Worth The Extra Cost?</h1><p>So, did I like it? Hell yes I did! </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a050532878ccb9261e886e713ad11cb0656c373.jpg"></article>]]></description>
-            <link>https://thegrid.ai/vacation-life/cruising-is-a-balcony-stateroom-worth-the-extra-cost/index.html</link>
+            <description><![CDATA[<article><h1>Cruising: Is A Balcony Stateroom Worth The Extra Cost?</h1><h2>The Good</h2><p>1) The view! Oh the view...Most of the time I was out on the balcony, I was either people-watching from above at a bustling port in a new country, or enjoying a view of endless water and the ship gliding effortlessly through it. It also didn't matter whether it was daytime or nighttime, as I found myself opening that sliding door multiple times a day. Also available on the Oasis-class ships are inward-facing balcony rooms with a beautiful view of the onboard Central Park (yes, there is a park with trees and nature sounds on a ship at sea) or Boardwalk (complete with a working carousel!) areas, but I'll need to save comment on those until I have chance to stay in one.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9dc9ac04908ec9240c1515c25ef3b3aa7f294c8e.jpg"></article>]]></description>
+            <link>http://vacation.life/cruising-is-a-balcony-stateroom-worth-the-extra-cost/index.html</link>
             <guid isPermaLink="false">0c6967ed-1b4b-4bd6-bb12-86fa4e616b19</guid>
-            <pubDate>Wed, 03 Feb 2016 07:56:09 GMT</pubDate>
+            <pubDate>Wed, 03 Feb 2016 08:54:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
