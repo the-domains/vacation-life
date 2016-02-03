@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-02T08:41:39.439Z'
-dateModified: '2016-02-02T08:41:27.006Z'
-title: 'Whoa!'
+datePublished: '2016-02-03T07:31:01.343Z'
+dateModified: '2016-02-03T07:30:48.427Z'
+title: 'Aloha!'
 author: []
 sourcePath: _posts/2016-02-02-my-very-first-post.md
 published: true
@@ -22,7 +22,13 @@ url: my-very-first-post/index.html
 _type: Article
 
 ---
-# Whoa!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ed97029-31f2-4652-8370-5e86247cb45a.jpg)
+# Aloha!
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/88ffd4fcbf5bc09b443e96a7320ee5fca7aa6c10.jpg)
 
-Welcome to Vacation Life, where I like to think vacationing should truly be a way of life. Who doesn't like the idea of taking a vacation somewhere beautiful, relaxing, or adventurous? Let's go explore new places together, and talk about it along the way.
+Welcome to Vacation Life, where vacationing _is_ life. Who doesn't like the idea of taking a vacation somewhere beautiful, relaxing, or adventurous? Let's go explore new places together, and talk about it along the way. 
+
+To begin our journey, feel free to click and enlarge the panoramic photo above, taken from the shore of Columbus Cove in Labadee, Haiti during my first trip of the year on Royal Caribbean's absolutely monumental Oasis-class ship, Allure of the Seas. More on that in a future post.
+
+Here's to the Vacation Life and many trips to come, cheers!
+
+-Tam Phan
